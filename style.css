@@ -227,7 +227,10 @@
     align-items: center;
   }
   .search-wrap { position: relative; }
-  .search-wrap input { padding-left: 32px; }
+  .search-wrap input { 
+    padding-left: 32px;
+    width: 180px;
+   }
   .search-icon {
     position: absolute;
     left: 10px;
