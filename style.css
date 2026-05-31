@@ -342,3 +342,20 @@
     main { padding: 24px 16px; }
     header { padding: 0 16px; }
   }
+
+  /* ── MOVIMENTAÇÕES ── */
+  .section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 28px;
+}
+
+.section-header-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.page-title.no-margin {
+  margin-bottom: 0;
+}
