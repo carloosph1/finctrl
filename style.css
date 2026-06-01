@@ -2,6 +2,7 @@
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
+    --font-main: 'DM Mono', monospace;
     --bg: #0d0f14;
     --surface: #13161f;
     --surface2: #1a1d26;
@@ -9,10 +10,10 @@
     --border2: #2a2d38;
     --text: #e8e6e0;
     --muted: #9a9890;
-    --accent: #c9f542;
+    --accent: #def52e;
     --accent-dim: #c9f54220;
     --green: #38d9a9;
-    --green-dim: #38d9a922;
+    --green-dim: #38d9a93e;
     --red: #ff6b6b;
     --red-dim: #ff6b6b22;
     --blue: #74c0fc;
